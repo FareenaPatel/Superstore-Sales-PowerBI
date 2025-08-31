@@ -19,6 +19,8 @@ https://photos.app.goo.gl/dMvtg1b2EsXkvU4o9
 Report
 https://docs.google.com/document/d/1Wm1MBitcr9b9X8JvJQrQctwFYQGi-QPlGcW6bs2PBTg/edit?usp=drivesdk
 
+Voiceover Walkthrough
+https://drive.google.com/file/d/1N_rABrccP5zsYMHkr48Sucq11vkTsf1N/view?usp=drivesdk
 
 # Superstore-Sales-PowerBI
 Power BI dashboard analyzing Superstore sales performance with forecasting and regional insights.
